@@ -98,6 +98,12 @@ Welcome to A New World.
 
 ******************************************************************
 
+### Save & Load
+
+You can save your campaign at any time by typing `save` or `/save`. This generates a compressed campaign save containing your character, progression, relationships, world state, and active story threads. To continue later in a new chat, simply paste the save file and type `load campaign` or `/load`.
+
+***************************************************************************************************************************
+
 Access the GPT
 
 https://chatgpt.com/g/g-6a1425542a1081918dcb036756b7ee58-a-new-world-v1-2
