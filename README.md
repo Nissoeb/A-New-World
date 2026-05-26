@@ -98,6 +98,10 @@ Welcome to A New World.
 
 ******************************************************************
 
+Use `/help` at any time to view available commands, character information, active goals, and gameplay guidance.
+
+**************************************************************************************************************************
+
 ### Save & Load
 
 You can save your campaign at any time by typing `save` or `/save`. This generates a compressed campaign save containing your character, progression, relationships, world state, and active story threads. To continue later in a new chat, simply paste the save file and type `load campaign` or `/load`.
