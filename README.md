@@ -98,6 +98,8 @@ Welcome to A New World.
 
 ******************************************************************
 
+Help Command
+
 Use `/help` at any time to view available commands, character information, active goals, and gameplay guidance.
 
 **************************************************************************************************************************
@@ -105,6 +107,13 @@ Use `/help` at any time to view available commands, character information, activ
 ### Save & Load
 
 You can save your campaign at any time by typing `save` or `/save`. This generates a compressed campaign save containing your character, progression, relationships, world state, and active story threads. To continue later in a new chat, simply paste the save file and type `load campaign` or `/load`.
+
+***************************************************************************************************************************
+
+Updates to GPT
+
+After an update, you can use the branch to a new chat feature, within Chatgpt, without having to save and start a new chat yourself.
+Branches preserve your character, world state, and campaign history while still using the latest version of A New World.
 
 ***************************************************************************************************************************
 
