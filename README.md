@@ -119,6 +119,14 @@ Branches preserve your character, world state, and campaign history while still 
 
 ***************************************************************************************************************************
 
+ChatGPT Platform Limits
+
+Because this experience runs through ChatGPT, OpenAI’s normal usage limits still apply. Free users may occasionally hit message caps, cooldowns, or reduced memory/context limits depending on platform traffic and account type.
+
+These are platform-side limitations and not limitations of the world or systems themselves.
+
+***************************************************************************************************************************
+
 Access the GPT
 
 https://chatgpt.com/g/g-6a1425542a1081918dcb036756b7ee58-a-new-world-v1-2
