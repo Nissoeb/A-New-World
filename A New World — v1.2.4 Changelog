@@ -1,0 +1,346 @@
+# A New World — v1.2.4 Changelog
+
+## Overview
+
+Version **1.2.4** is a major runtime refinement update focused on:
+
+* gameplay pacing
+* grounded progression
+* runtime readability
+* social/world simulation depth
+* long-term continuity
+* economic realism
+* reactive world behavior
+
+This update heavily improves the AI Game Master runtime architecture while reducing cinematic over-narration and early-game escalation problems.
+
+The overall design goal is to create a more believable, reactive, long-term progression fantasy RPG experience.
+
+---
+
+# Major Runtime Changes
+
+## New Runtime Override Architecture
+
+Added and integrated:
+
+* **Master GPT Operational System Prompt V2**
+* **AI Game Master Runtime V3**
+* **Early Game Escalation Control Runtime Override**
+* **Memory & Continuity Runtime V2**
+
+These systems now heavily control:
+
+* pacing
+* narration density
+* gameplay flow
+* interaction structure
+* escalation timing
+* continuity handling
+
+### Result
+
+The AI now behaves more like:
+
+* a reactive tabletop DM
+* a living MUD engine
+* a world simulator
+
+…and less like:
+
+* a fantasy novelist
+* cinematic prose narration
+* scripted storytelling
+
+---
+
+# Early Game Overhaul
+
+## Slow-Burn Progression Enforcement
+
+Added a dedicated escalation control runtime system.
+
+Early gameplay now prioritizes:
+
+* ordinary life
+* local conflicts
+* friendships
+* rivalries
+* training
+* financial pressure
+* social identity
+* faction pressure
+* grounded academy preparation
+
+The player is no longer treated as immediately world-important.
+
+### Reduced:
+
+* chosen-one narratives
+* instant legendary status
+* nonstop ancient mysteries
+* early apocalypse-scale events
+* constant hidden ruins/superstructures
+
+### Result
+
+Campaigns now begin in a more grounded and believable way before escalating naturally over time.
+
+---
+
+# Runtime Readability Improvements
+
+## Compact Reactive Narration
+
+Large runtime formatting overhaul.
+
+### New response priorities:
+
+* concise responses
+* compact prose
+* natural paragraph flow
+* faster player interaction loops
+* reduced narration bloat
+
+### Removed tendencies:
+
+* fragmented dramatic formatting
+* cinematic subtitle pacing
+* atmosphere spam
+* excessive environmental prose
+* giant narration walls
+
+### Gameplay loop emphasis:
+
+small narration → player input → consequence → world reaction
+
+### Result
+
+Gameplay feels faster, cleaner, and significantly more interactive.
+
+---
+
+# World Simulation Expansion
+
+## Dynamic Economy Runtime V2
+
+Major economy simulation expansion.
+
+### Added:
+
+* dynamic pricing
+* regional scarcity
+* evolving supply/demand
+* faction-controlled markets
+* black market behavior
+* transportation disruption effects
+* economic instability
+* survival economics
+* academy debt pressure
+* regional economic identities
+
+### Economy now reacts to:
+
+* monster outbreaks
+* wars
+* corruption
+* Rift instability
+* trade disruption
+* labor shortages
+* population pressure
+
+### Result
+
+The world economy now evolves independently and creates meaningful long-term financial consequences.
+
+---
+
+# Social & Relationship Improvements
+
+## Expanded Social Simulation
+
+Relationship and reputation systems were significantly deepened.
+
+### NPCs now react more dynamically to:
+
+* social class
+* reputation
+* cultivation status
+* emotional behavior
+* scandals
+* political alignment
+* public rumors
+* faction ties
+
+### Relationship systems expanded:
+
+* friendships
+* rivalries
+* mentorships
+* romance
+* betrayal
+* reconciliation
+* long-term emotional evolution
+
+### Result
+
+Characters feel more emotionally independent and socially believable over long campaigns.
+
+---
+
+# Continuity & Persistence Improvements
+
+## Memory System V2
+
+Major continuity improvements.
+
+### Added layered memory prioritization:
+
+* critical identity memory
+* relationship memory
+* world-state continuity
+* active arc tracking
+* long-term emotional continuity
+
+### Save/Load System Improvements
+
+Campaign saves now better preserve:
+
+* progression
+* relationships
+* world state
+* reputation
+* emotional continuity
+* faction dynamics
+
+### Result
+
+Long campaigns remain more stable and coherent over time.
+
+---
+
+# Combat & Progression Refinements
+
+## Grounded Combat Logic
+
+Combat and cultivation systems were refined to feel:
+
+* dangerous
+* costly
+* fatigue-based
+* injury-persistent
+* resonance-sensitive
+
+### Expanded systems:
+
+* resonance strain
+* emotional stress
+* injury persistence
+* burnout
+* cultivation instability
+* recovery limitations
+
+### Result
+
+Power progression now feels slower, riskier, and more meaningful.
+
+---
+
+# Companion & Monster AI Improvements
+
+## More Independent Companion Behavior
+
+Companions are now simulated as evolving personalities instead of simple pets.
+
+### Added:
+
+* emotional bonding
+* synchronization systems
+* loyalty evolution
+* command resistance
+* independent goals
+* personality growth
+
+## Expanded Monster Ecology
+
+Monster ecosystems now simulate:
+
+* territorial behavior
+* evolution
+* environmental adaptation
+* migration
+* survival instincts
+* affinity ecology
+
+### Result
+
+Creatures feel more alive and less like generic enemies.
+
+---
+
+# Dungeon & Event System Improvements
+
+## Improved Dynamic World Events
+
+Quest and event systems now emerge more naturally from:
+
+* politics
+* economy
+* monster activity
+* faction conflict
+* Rift instability
+* social pressure
+* regional crises
+
+## Dungeon & Rift Improvements
+
+Dungeons and Rifts now emphasize:
+
+* unique identity
+* ecological logic
+* environmental storytelling
+* instability
+* regional influence
+* economic importance
+
+### Result
+
+Exploration content now feels less repetitive and more world-integrated.
+
+---
+
+# Core Identity of v1.2.4
+
+Version 1.2.4 strongly shifts the project toward:
+
+* grounded progression fantasy
+* reactive simulation
+* long-term campaigns
+* social realism
+* emergent storytelling
+* world persistence
+* consequence-driven gameplay
+
+The update significantly reduces:
+
+* artificial escalation
+* over-written narration
+* protagonist-central storytelling
+* repetitive mystery spam
+
+…and strengthens:
+
+* immersion
+* pacing
+* continuity
+* player agency
+* world simulation
+* believable progression
+
+---
+
+# Recommended Positioning
+
+### A New World v1.2.4 is best described as:
+
+> “A living progression fantasy RPG simulator focused on grounded long-term character growth, reactive world simulation, social consequence, and emergent storytelling.”
