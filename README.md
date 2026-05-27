@@ -82,7 +82,9 @@ and an emergent progression fantasy world.
 
 Important Note
 
-This world is generated dynamically through AI and may occasionally produce inconsistencies during extremely long playthroughs.
+More than 800 pages of original worldbuilding and system design have gone into creating this experience.
+
+This world is generated dynamically through AI using tailored design frameworks, progression systems, lore documents, and simulation rules created specifically for this project. Because of the scale and dynamic nature of the simulation, occasional inconsistencies may appear during extremely long playthroughs.
 
 The focus of the experience is immersion, emotional continuity, world reactivity, and emergent storytelling rather than perfect mechanical simulation.
 
